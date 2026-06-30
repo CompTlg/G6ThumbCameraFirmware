@@ -7,8 +7,18 @@ _*extracted/
 *.hex
 *.img
 
+# Ignore foremost default output folder
+output/
+extracted_images/
+
+*.jpg
+*.wav
+*.png
+*.png.webp
+
 # Allow specific large files if needed (uncomment below)
 # !important_firmware.bin
+!modified1.bin
 
 # OS-specific clutter
 .DS_Store
