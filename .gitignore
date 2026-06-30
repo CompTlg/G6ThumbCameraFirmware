@@ -1,0 +1,15 @@
+# Ignore all binwalk extraction outputs
+_*extracted/
+*.extracted/
+
+# Ignore compiled binaries and firmware images (if you only want code)
+*.bin
+*.hex
+*.img
+
+# Allow specific large files if needed (uncomment below)
+# !important_firmware.bin
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
