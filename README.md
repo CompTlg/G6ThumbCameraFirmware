@@ -7,7 +7,7 @@
 '''hx330x_sdk.bin'''
 
 ## To Use:
-Simply put the sdk.bin into the root of the sd card and boot up the camera normally. It will open up, then will have something like a loading screen come up and turn off.
+Simply put the sdk.bin (Go inside the HF 98-260513) into the root of the sd card and boot up the camera normally. It will open up, then will have something like a loading screen come up and turn off.
 Congratulations you now don't have a bad boot sound, and have good artwork for the screen.
 You can delete the .bin file from you sdcard now.
 
