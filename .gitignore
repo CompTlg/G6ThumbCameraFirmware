@@ -6,19 +6,21 @@ _*extracted/
 *.bin
 *.hex
 *.img
+*.txt
 
 # Ignore foremost default output folder
-output/
 extracted_images/
-
-*.jpg
-*.wav
+HF_9850_260513/output
 *.png
 *.png.webp
+!
 
 # Allow specific large files if needed (uncomment below)
 # !important_firmware.bin
 !modified1.bin
+!backup1.bin
+!hx330x_sdk.bin
+!audit.txt
 
 # OS-specific clutter
 .DS_Store

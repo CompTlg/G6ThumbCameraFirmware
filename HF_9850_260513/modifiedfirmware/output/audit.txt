@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jun 30 09:59:03 2026
+Invocation: foremost modified1.bin
+------------------------------------------------------------------
+Num	 Name (bs=512)	       Size	       File Offset	 Comment 
+
+0:	00001552.jpg 	       6 KB 	     794626 	 USB Connect image -> Max 7117 bytes; pixelWidth: 320 pixelHeight: 179
+1:	00001565.jpg 	       7 KB 	     801743 	 Welcome image -> Max 7453 - 7321 = 132 bytes; pixelWidth: 320 pixelHeight: 240
+2:	00001580.jpg 	       7 KB 	     809196 	 Goodbye image -> Max 7497 - 7426 = 71 bytes; pixelWidth: 320 pixelHeight: 240
+3:	00001595.jpg 	       7 KB 	     816693 	 PC Camera image -> Max 7615 bytes; pixelWidth: 320 pixelHeight: 179
+4:	00001609.jpg 	       4 KB 	     824308 	 Audio recording image -> Max 4691 bytes; pixelWidth: 240 pixelHeight: 120
+5:	00000989.wav 	       1 KB 	     506556 	 Menu clicking sounds -> 1812 bytes
+6:	00001264.wav 	      13 KB 	     647280 	 Photo taking sound -> 13910 bytes
+7:	00001291.wav 	      68 KB 	     661198 	 Opening sound -> Max 70096 bytes
+8:	00001428.wav 	      59 KB 	     731302 	 IDK this one, havent heard it while using the camera -> 61434 bytes
+9:	00001548.wav 	       1 KB 	     792744 	 Menu clicking sound again -> 1874 bytes
+Finish: Tue Jun 30 09:59:03 2026
+
+10 FILES EXTRACTED
+	
+jpg:= 5
+rif:= 5
+------------------------------------------------------------------
+
+Foremost finished at Tue Jun 30 09:59:03 2026
